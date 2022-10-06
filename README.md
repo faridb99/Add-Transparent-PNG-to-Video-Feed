@@ -7,6 +7,6 @@ Requirements:
 
 
 
-!!!!!!!ATTENTION!!!!!!!
-Please be careful when changing x1 and y1 for the rectangle with sides x2-x1 and y2-y1 has to fit in Camera resolution (Default: 1920x1080 )
-!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!ATTENTION!!!!!!!                                                                                                                                                   
+Please be careful when changing x1 and y1 for the rectangle with sides x2-x1 and y2-y1 has to fit in Camera resolution (Default: 1920x1080 )                             
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
