@@ -2,7 +2,7 @@ This code can be used to overlay special effects on a Camera Feed using OpenCV a
 
 Requirements:
 
-1. Folder containing a series of PNG pictures with transparent background (alpha channel) and names in asscending order from 0 --> number_of_pictures
+1. Folder containing a series of PNG pictures with transparent background (alpha channel) and names in ascending order from 0 --> number_of_pictures
 2. Webcam
 
 
